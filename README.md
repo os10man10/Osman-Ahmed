@@ -69,8 +69,8 @@
 
 ## 📫 Connect With Me  
 
-- 💬 Telegram: [Your Username](https://t.me/YOUR_USERNAME)  
-- 📧 Email: your@email.com  
+- 💬 Telegram: 
+- 📧 Email: os1223943@gmail.com
 
 ---
 
